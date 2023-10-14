@@ -1,8 +1,8 @@
-API_ID       = 27472415   
-API_HASH     = "127886dd538e4ab12be99ec7e08a7142"   
-BOT_TOKEN    = "6488708348:AAFqkCrk6f_JFZvwtYzFESPPkEj3T_TAMoc"   
-SESSION      = "BQGjMh8AMAY_tJUJgs60r6uWk8cyblLDaOjNxejOwnJaHIhen-anC-h2ETA87Y9Ae-kDhg68-o0ObQiDskgXNI9ztJNmNWIYzRO41CoJventqy45_DkXNLE1hQddDVBbk7zoQ25NUwvaIt9XNRabKgn2ZWcwdMrPgmtH3eefpdS350zqBfKsLrbDYwdtXuT3LTlXFRPsIwVhnNqSjzcePO8Y7MPm_PXYrrsoQZKIHvtde34E2JgzgKMdRQT0YgBNFhctXXuXhI7SYzEVRslsfYRkdWDD7F3JMpJ27s3Wvdget3q2qYZue1y0GxAkgQ42HKTceHS_2wwd27Nyo91MylCh3mSAAAAAFhQogZAA"   
-DATABASE_URI = "mongodb+srv://forward:forward@cluster0.nm08pkc.mongodb.net/?retryWrites=true&w=majority"   
-LOG_CHANNEL  = -1001801752072   
-ADMIN        = 5926717465   
+API_ID       = 27932904  
+API_HASH     = "bd1969abffc09157194e1c8d24fb97df"  
+BOT_TOKEN    = "6103629593:AAH2taLm7GTTD1BBQlUk18qVvMgNbjsNna8"  
+SESSION      = "AQGqOOgAxZN6uglP25xv4dJw2y4SPyduBuLRk4TSkNeVYKMKuzm0t8dVdpcqr2dntMvitcKu4EJ3HzF2z1ycTue4S-DOzYSapkjjBmOyqr6pWFTGif8WLKMX5dscBnhpqpx_f_efX2wWRTp2U7i6JZD0Ht_-iumQrtNvadqJ0oOMRwO_qq78Qq8_FSe6J1CURbuNqf01GSpvLm-ZuT63BKXopqPLZZNmEhHtm7zfD7nQ0vlcAELL4TP0r56GP5hD68gJrnGB1J3INWwKVrEqNnuJm2bevdZEzhMMAaQ_LgfAeb2m7yZsLSgTJlUT6_znTJAtP3xW4L1qX775E1-PRK3PRw9KFgAAAAGJZuu8AA"  
+DATABASE_URI = "mongodb+srv://cheapd148:cheapd148@cluster0.bxejgg4.mongodb.net/?retryWrites=true&w=majority"  
+LOG_CHANNEL  = -1001976886026  
+ADMIN        = 6600190908  
 CHANNEL      = "@Sseries_Area"
